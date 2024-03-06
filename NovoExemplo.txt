@@ -1,0 +1,2 @@
+
+Esse é o segundo arquivonovo.txt add no segundo commit após retornar o git para o primeiro commit commit 
