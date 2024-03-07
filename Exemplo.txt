@@ -1,3 +1,5 @@
 Teste de Primeiro GIT
 
 Essa é a segunda linha apos retornar o GIT para o primeiro Commit.
+
+Essa edição foi feita depois de ter feito o comando git CLONE.
